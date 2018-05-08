@@ -15,9 +15,9 @@ GROUP BY title;"
 end
 
 def selects_the_user_name_age_and_pledge_amount_for_all_pledges_alphabetized_by_name
-"SELECT name, age
+"SELECT name, age, pledge.amount 
 FROM users
-ORDER BY name ASC 
+ORDER BY name ASC
 ;"
 end
 
