@@ -1,1 +1,2 @@
-INSERT INTO users ('Bob',24,)
+INSERT INTO users VALUES ('Bob',24)
+INSERT INTO users VALUES ('Cob',24)
