@@ -19,4 +19,4 @@ INSERT INTO users (name, age) VALUES ('Sob',24);
 INSERT INTO users (name, age) VALUES ('Tob',24);
 INSERT INTO users (name, age) VALUES ('Uob',24);
 
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('t1', 'c1', 10000, 0501, 0402)
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('t1', 'c1', 10000, 0501, 0402);
