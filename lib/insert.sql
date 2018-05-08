@@ -1,2 +1,3 @@
 INSERT INTO users VALUES ('Bob',24)
 INSERT INTO users VALUES ('Cob',24)
+INSERT INTO users VALUES ('Dob',24)
