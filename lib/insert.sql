@@ -29,3 +29,6 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('t8', 'c1', 10000, 0501, 0402);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('t9', 'c1', 10000, 0501, 0402);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('t10', 'c1', 10000, 0501, 0402);
+
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
